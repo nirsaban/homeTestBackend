@@ -1,0 +1,24 @@
+// company
+// {
+//     "display_name": "GameSys", 
+//     "id": 1, 
+//     "name": "gamesys"
+// }, 
+
+// company  id 
+// {
+//     "installs": 101, 
+//     "country": "United States", 
+//     "cost": 83, 
+//     "iso": "US", 
+//     "revenue": 84
+// }, 
+
+// countries 
+// {
+//     "installs": 13452, 
+//     "country": "United States", 
+//     "cost": 25000, 
+//     "iso": "US", 
+//     "revenue": 20000
+// }, 
